@@ -34,7 +34,7 @@ close discussions that have run their course after review.
 FedRAMP will communicate with the public about open RFCs via its various social
 channels, including blogs, email lists, and more. The team may run multiple RFCs
 simultaneously, and the
-[status of all RFCs can be seen here](http://rfc/README.md).
+[status of all RFCs can be seen here](README.md).
 
 #### **Providing feedback**
 
@@ -53,7 +53,7 @@ It is important that each piece of feedback is _concise_ and _actionable_,
 providing enough information for the document maintainers to address the comment
 adequately.
 
-**Please follow our [Code of Conduct](http://CODE_OF_CONDUCT.md) at all
+**Please follow our [Code of Conduct](../CODE_OF_CONDUCT.md) at all
 times\!**
 
 #### **How FedRAMP will participate**
